@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/anmol/projects/dngo/models/saved_models/demo/model.ckpt"
+all_model_checkpoint_paths: "/home/anmol/projects/dngo/models/saved_models/demo/model.ckpt"
