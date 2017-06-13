@@ -1,6 +1,6 @@
 ## Deep Networks for Global Optimization
 
-Paper:
+Paper: https://arxiv.org/pdf/1502.05700.pdf
 
 ### How to Run:
 1. Add known data points in data/X.npy and data/Y.npy
